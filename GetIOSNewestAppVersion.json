@@ -1,0 +1,9 @@
+{
+	"dataModel": {
+		"versionCode": "2.0.0",
+		"releaseNote": "初始版本",
+		"isForceUpdate": false,
+		"downloadUrl":"https://d8930617055b.ngrok.io/files/gt/apps/ios/ mobileconfig/gt.mobileconfig"
+		},
+		"returnCode": "000000", "returnMessage": "成功"
+}
